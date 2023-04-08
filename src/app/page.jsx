@@ -1,8 +1,11 @@
 import React from 'react'
+import Header from './components/Header'
+import './globals.css'
 
 export default function Home() {
   return (
-    <div className="text-red-600 text-3xl">Home is here
-    </div>
+      <div>
+         
+      </div>
   )
 }
